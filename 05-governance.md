@@ -1,6 +1,16 @@
 # Community Specification Governance Policy 1.0
 
-This document provides the governance policy for specifications and other documents developed using the Community Specification process in a repository (each a “Working Group”).  Each Working Group and must adhere to the requirements in this document.
+This document provides the governance policy for specifications and other documents developed using the Community Specification process in a repository (each a “Working Group”). Each Working Group Participant must adhere to the requirements in this document.  Each Working Group is part of the OpenIDS (Open Insurance Data Standard) project, which has been established as OpenIDS (Open Insurance Data Standard) a Series of LF Projects, LLC.  The policies of LF Projects, LLC, available at www.lfprojects.org/policies/ apply to participation in each Working Group.
+
+# Project Contribution Agreement
+
+In order to enable collaboration across organizations, the Linux Foundation and its project hosting entities hold project names, logos and key accounts (e.g., domain names, GitHub accounts, etc.) for the benefit of the project community.  The way we do this is through the execution of the Project Contribution Agreement with the project’s founding organization or, in some cases, individual.  While companies transferring project names and logos to us can continue use those names and logos in accordance with our trademark usage guidelines (please see https://lfprojects.org/policies/trademark-policy/), project names should not be used as part of a commercial product name.  If you are currently using the name of the project as part of a product name, please let us know.
+
+While the Project Contribution Agreement will ask about any trademark registrations, please note your organization may have common law trademark rights in a project name even if a registration has not been filed. Therefore, unless the project name has never been used publicly, we have Project Contribution Agreements signed even if there are no trademark registrations.
+
+# Series Agreement
+
+You will note that the Technical Charter refers to the project as being organized as a “series” of LF Projects, LLC. LF Projects, LLC is one of our project hosting entities, and is a Delaware series limited liability company. Using LF Projects, LLC allows us to give a form of legal identity to projects.  The document that gives existence to the project as a series of LF Projects, LLC, is the ‘Series Agreement’. The Series Agreement is a document signed by LF personnel, and no action is required on your part in creation of the series.  We are including a copy of the Series Agreement in this packet because the Technical Charter will include references to the Series Agreement and the Series Manager (an LF employee who can act on behalf of the series). Please confirm that the purpose statement in Section 2.1 is correct.
 
 ## 1.	Roles.
 
