@@ -1,6 +1,7 @@
 # Notices
 
 ## Code of Conduct
+Contacts for Code of Conduct issues or inquires:
 
 Catherine Myers, ReThought
 [catherine.myers@rethoughtinsurance.com](mailto:catherine.myers@rethoughtinsurance.com)
@@ -8,17 +9,16 @@ Catherine Myers, ReThought
 Robert Clark, Cloverleaf 
 [rclark@cloverleafanalytics.com](rclark@cloverleafanalytics.com)
 
-TBD, AAIS
-
+Michael Payne, AAIS
 
 Sean Bohan, Community Architect, Linux Foundation 
 [sbohan@linuxfoundation.org](sbohan@linuxfoundation.org)
 
-OPENIDS is a collaborative project at The Linux Foundation. It is an open-source and open community project where participants choose to work together, and in that process experience differences in language, location, nationality, and experience. In such a diverse environment, misunderstandings and disagreements happen, which in most cases can be resolved informally. In rare cases, however, behavior can intimidate, harass, or otherwise disrupt one or more people in the community, which OpenIDL will not tolerate.
+OPENIDS is a collaborative project at The Linux Foundation. It is an open-source and open community project where participants choose to work together, and in that process experience differences in language, location, nationality, and experience. In such a diverse environment, misunderstandings and disagreements happen, which in most cases can be resolved informally. In rare cases, however, behavior can intimidate, harass, or otherwise disrupt one or more people in the community, which OPENIDS will not tolerate.
 
 A Code of Conduct is useful to define accepted and acceptable behaviors and to promote high standards of professional practice. It also provides a benchmark for self evaluation and acts as a vehicle for better identity of the organization.
 
-This code (CoC) applies to any member of the OpenIDL community - developers, participants in meetings, teleconferences, mailing lists, conferences or functions, etc. Note that this code complements rather than replaces legal rights and obligations pertaining to any particular situation. You can find the Linux Foundation Code of Conduct at [https://events.linuxfoundation.org/about/code-of-conduct](https://events.linuxfoundation.org/about/code-of-conduct)
+This code (CoC) applies to any member of the OPENIDS community - developers, participants in meetings, teleconferences, mailing lists, conferences or functions, etc. Note that this code complements rather than replaces legal rights and obligations pertaining to any particular situation. You can find the Linux Foundation Code of Conduct at [https://events.linuxfoundation.org/about/code-of-conduct](https://events.linuxfoundation.org/about/code-of-conduct)
 
 ## License Acceptance
 
