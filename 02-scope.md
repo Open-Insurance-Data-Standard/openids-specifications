@@ -23,12 +23,7 @@ This specification is being developed under the Community Specification 1.0 Lice
 The OPENIDS Community conforms to both the Linux Foundation Antitrust and Code of Conduct policies. All participants in the Insurance Industry are welcome to participate. 
 
 # Deliverables
-<define deliverables>
-Milestones
-Key milestones will include, but are not limited to:
-#
-Date
-Milestone Name
+Deliverables will be based on the OPENIDS Base Standard, provided as a JSON file and a spreadsheet.
 
 # About This Document
 Include in this document a detailed description of this Working Group’s Scope. This Scope is important is it establishes the bounds of each contributor's and licensee's patent commitment. For guidance on drafting an appropriate Scope, you may find ISO's guidance (see page 5) helpful.
